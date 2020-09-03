@@ -38,9 +38,8 @@ def clear():
 
 def convert_img():
     img=cv2.imread('new_image.png', 0)
-    #cv2.imshow('img', img)
+    
     img = cv2.bitwise_not(img)
-    #cv2.imshow('img', img)
     
     img = cv2.resize(img,(28,28))
     img = img.reshape(1,28,28,1)
