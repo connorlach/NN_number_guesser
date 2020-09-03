@@ -1,0 +1,8 @@
+Python 3.8 or below
+Tensorflow
+Numpy
+matplotlib
+Keras
+OpenCV-python
+Pillow
+Tkinter
