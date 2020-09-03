@@ -2,5 +2,5 @@
 
 Basic neural network model designed to solve the mnist data set. Tkinter GUI allows user to draw a number on the screen and have the program guess the number.
 
-basic video on the system can be found here: https://www.youtube.com/watch?v=wQ8BIBpya2k
+Video on the system can be found here: https://www.youtube.com/watch?v=wQ8BIBpya2k
 
