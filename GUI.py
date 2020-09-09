@@ -24,7 +24,7 @@ def draw_line(event):
 def predict():
     filename = "new_image.png"
     pil_image.save(filename)
-    pil_image.show()
+    #pil_image.show()
     
     img = convert_img()
     pred=model.predict(img)
